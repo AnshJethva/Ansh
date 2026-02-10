@@ -1,6 +1,3 @@
-
-<<<<<<< HEAD
-=======
 nums = [1,2,3]
 
 cart = ["phone", "book", 10, False, None, {1: "a"}, nums]
@@ -16,4 +13,4 @@ marks = (55,66,77,88,99)
 print(marks)
 
 print(type(marks))
->>>>>>> 9d1242f (4)
+
